@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XMLPARSING</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vista__indiv">Vista_Indiv</string>
+    <string name="id_planta">Id planta:</string>
+    <string name="nombre_planta">Nombre de la planta:</string>
+    <string name="tipo_planta">Tipo de planta:</string>
+    <string name="color_planta">Color de planta:</string>
+    <string name="precio">Costo</string>
+    <string name="id_plantss">ID de la planta</string>
+    <string name="nombre_plants">Nombre de la Planta</string>
+</resources>
